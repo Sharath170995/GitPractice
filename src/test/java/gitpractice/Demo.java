@@ -3,7 +3,7 @@ package gitpractice;
 public class Demo {
 
 	public static void main(String[] args) {
-		System.out.println("practice github oush");
+		System.out.println("practice github push");
 
 	}
 
